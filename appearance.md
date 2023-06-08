@@ -13,7 +13,7 @@ Site configuration includes:
 - **Logo**
 - **Favicon**
 
-![site-configuration.png](images/site-configuration.png)
+![Site Configuration](images/site-configuration.png)
 
 ## Color configuration
 
@@ -25,7 +25,7 @@ We also support selecting the color of buttons, selected sidebars, focused input
 - **Primary Color**
 - **Secondary Color**
 
-![color-configuration.png](images/color-configuration.png)
+![Color Configuration](images/color-configuration.png)
 
 ## Display earnings option
 
